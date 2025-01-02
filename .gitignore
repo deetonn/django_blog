@@ -18,6 +18,8 @@ lib64/
 venv/
 .env
 
+env.py
+
 # Django
 *.log
 local_settings.py
